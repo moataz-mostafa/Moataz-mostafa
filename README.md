@@ -25,6 +25,7 @@
 - Built Smart Irrigation System App using Kotlin, connected with IoT hardware (Arduino + sensors) for real-time soil monitoring and irrigation control  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moataz-dev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moataz-dev&layout=compact&theme=radical)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="50"/>  
 
