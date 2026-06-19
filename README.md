@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- Flutter & Mobile Developer (Beginner–Intermediate)  
+- Flutter & Mobile Developer (Intermediate)  
 - Based in Cairo, Egypt – building apps for clients worldwide  
 - 📱 Shipped **5+ mobile apps** to App Store & Google Play  
 - Developed **official educational mobile application (ie Learn)** for schools  
