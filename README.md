@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a9d8f&height=150&section=header&text=Moataz%20Mostafa&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=65&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%26%20Kotlin&descAlign=50&descAlignY=83&descColor=ffffffcc&descSize=18"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2a9d8f&center=true&vCenter=true&width=900&lines=Flutter+%26+Mobile+Developer;REST+API+%26+Firebase+Integration;EdTech+%26+IoT+Projects;5%2B+Apps+Published+Worldwide" alt="Typing SVG" />
 </p>
@@ -9,8 +7,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-<img align="right" width="280px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" />
 
 - 📱 Flutter & Mobile Developer (Intermediate)  
 - 🌍 Based in Cairo, Egypt – building apps for clients worldwide  
@@ -54,16 +50,6 @@
 
 - **Client Apps**  
   - Multiple apps published on App Store & Google Play  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=moataz-mostafa&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=moataz-mostafa&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataz-mostafa&layout=compact&theme=radical" />
-</div>
 
 ---
 
