@@ -1,40 +1,84 @@
-# Moataz Mostafa  
-### Mobile App Developer | Flutter & Native (Kotlin)  
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a9d8f&height=150&section=header&text=Moataz%20Mostafa&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=65&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%26%20Kotlin&descAlign=50&descAlignY=83&descColor=ffffffcc&descSize=18"/>
 
-## 👨‍💻 About Me  
-- Flutter & Mobile Developer (Intermediate)  
-- Based in Cairo, Egypt – building apps for clients worldwide  
-- 📱 Shipped **5+ mobile apps** to App Store & Google Play  
-- Developed **official educational mobile application (ie Learn)** for schools  
-- Built **smart irrigation system mobile app** using Kotlin, integrated with IoT hardware  
-- B.Sc. in Management Information Systems – Modern Academy, 2024  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2a9d8f&center=true&vCenter=true&width=900&lines=Flutter+%26+Mobile+Developer;REST+API+%26+Firebase+Integration;EdTech+%26+IoT+Projects;5%2B+Apps+Published+Worldwide" alt="Typing SVG" />
+</p>
+
+<h3 align="center">"Code is the bridge between ideas and reality."</h3>
 
 ---
 
-## 🛠️ Tech Stack  
-- **Mobile Development:** Flutter, Dart, MVVM, Kotlin  
-- **Backend & Cloud:** REST APIs, Firebase (Auth, Realtime DB, Cloud Messaging)  
-- **E-Commerce:** Shopify  
-- **Tools & DevOps:** VS Code, Android Studio, GitHub  
+## 👨‍💻 About Me
+
+<img align="right" width="280px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" />
+
+- 📱 Flutter & Mobile Developer (Intermediate)  
+- 🌍 Based in Cairo, Egypt – building apps for clients worldwide  
+- 🎓 B.Sc. Management Information Systems – Modern Academy, 2024  
+- 🚀 Shipped **5+ mobile apps** to App Store & Google Play  
+- 🏫 Developed **ie Learn App** for schools (Dashboard + Chat + AI Chat)  
+- 🌱 Built **Smart Irrigation System App** using Kotlin + IoT hardware  
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Key Achievements  
-- **ie Learn App**: Complete educational mobile application for schools  
-  - Built **Dashboard** & **Chat System** for teachers and students  
-  - Integrated **AI Chat** using Google Gemini APIs  
-  - Implemented **Login & Signup** with REST APIs  
-- **Smart Irrigation System App (Kotlin)**:  
+## 🛠️ Tech Stack
+
+**Mobile**
+
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark)](https://skillicons.dev)
+
+**Backend & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+**Tools & DevOps**
+
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark)](https://skillicons.dev)
+
+---
+
+## 🚀 Key Projects
+
+- **ie Learn App**  
+  - Dashboard + Chat System for teachers & students  
+  - AI Chat integration using Gemini APIs  
+  - Login & Signup with REST APIs  
+
+- **Smart Irrigation System App (Kotlin)**  
   - Connected with IoT hardware (Arduino + sensors)  
-  - Enabled **real-time soil monitoring & automated irrigation control**  
-- Published multiple apps on **App Store & Google Play**, delivering scalable solutions for clients  
+  - Real-time soil monitoring & automated irrigation control  
+
+- **Client Apps**  
+  - Multiple apps published on App Store & Google Play  
 
 ---
 
-## 📊 GitHub & Tech Logos  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="50"/>  
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=moataz-mostafa&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moataz-mostafa&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataz-mostafa&layout=compact&theme=radical" />
+</div>
 
 ---
+
+## 📫 Contact
+
+<div align="center">
+  <a href="mailto:moataz.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/moataz-mostafa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a9d8f&height=100&section=footer"/>
