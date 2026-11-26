@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".58" stop-color="#052E2B"/><stop offset="1" stop-color="#064E3B"/></linearGradient><radialGradient id="g"><stop stop-color="#D7A56D" stop-opacity=".3"/><stop offset="1" stop-color="#D7A56D" stop-opacity="0"/></radialGradient></defs>
+<rect width="1100" height="330" rx="22" fill="url(#b)"/><circle cx="820" cy="160" r="260" fill="url(#g)"/>
+<g fill="none" stroke="#D7A56D" opacity=".35"><circle cx="820" cy="160" r="130"/><circle cx="820" cy="160" r="92"/><circle cx="820" cy="160" r="54"/><path d="M650 160H990M820 0V330M700 40L940 280M940 40L700 280"/></g>
+<path d="M0 282H1100" stroke="#A7F3D0" opacity=".16"/>
+<text x="64" y="66" fill="#D7A56D" font-family="monospace" font-size="16" letter-spacing="4">SELECTED WORK / 03</text>
+<text x="64" y="154" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="52" font-weight="700">ANDREA</text>
+<text x="66" y="198" fill="#B8D8CC" font-family="monospace" font-size="17" letter-spacing="2">BRAND EXPERIENCE / WEB</text>
+<text x="66" y="286" fill="#75A99A" font-family="monospace" font-size="12" letter-spacing="3">MOATAZ MOSTAFA  /  PROJECT PORTFOLIO</text></svg>

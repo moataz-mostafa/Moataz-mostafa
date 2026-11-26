@@ -1,0 +1,12 @@
+INSTALL
+1. Back up the existing README in the profile repository.
+2. Copy this README.md to the repository root (repository name: moataz-mostafa).
+3. Copy the assets/ folder beside README.md, preserving filenames.
+4. Copy .github/workflows/snake.yml into the same path in the repository.
+5. Commit and push.
+6. Open Actions and run "Generate contribution snake" once.
+
+The SVG project covers are decorative artwork, not screenshots of the apps.
+Replace them with real screenshots when available.
+GitHub README does not support arbitrary JavaScript, custom CSS, or hover effects.
+Third-party stats/animation services may occasionally be unavailable.
