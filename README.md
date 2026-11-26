@@ -85,10 +85,6 @@ Kotlin Android Arduino
 
 Technology
 <div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,vscode,figma,arduino&theme=dark" alt="Technology stack"/> </div>
-GitHub activity
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moataz-mostafa&show_icons=true&hide_border=true&bg_color=071411&title_color=6EE7B7&icon_color=34D399&text_color=D1E7DD&rank_icon=github" alt="GitHub statistics"/> <img width="49%" src="https://streak-stats.demolab.com/?user=moataz-mostafa&theme=dark&hide_border=true&background=071411&ring=34D399&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub streak"/> <br/><br/> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moataz-mostafa&bg_color=071411&color=D1E7DD&line=10B981&point=6EE7B7&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="Contribution graph"/> </div>
-Current direction
-<table> <tr> <td width="50%" valign="top">
 
 Engineering
 
